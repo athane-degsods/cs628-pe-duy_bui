@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.movie-card {
+border: 1px solid black;
+margin: 5px auto;
+padding: 5px;
+width: 320px;
+max-width: 90%;
+box-sizing: border-box;
+transition: box-shadow 0.2s ease;
+}
+
+.movie-card:hover {
+box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}

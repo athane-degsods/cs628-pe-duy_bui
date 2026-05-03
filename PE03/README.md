@@ -28,4 +28,4 @@ There are three interactions that can be made by the user:
 
 - CSS is used to style the application, making it visually appealing and user-friendly.
 
-![webapp](image/README/webapp.png)
+![webapp](todo-app/image/README/webapp.png)
